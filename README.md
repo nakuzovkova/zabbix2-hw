@@ -15,8 +15,7 @@
 
 ```
 
-![Скриншот1 1](https://github.com/nakuzovkova/zabbix2-hw/blob/master/img/1.png)
-
+![Скриншот 1](https://github.com/nakuzovkova/zabbix2-hw/blob/master/img/1.png)
  ---
 
 ### Задание 2
@@ -35,7 +34,7 @@
 
 ```
 
-![Скриншот1 1](https://github.com/nakuzovkova/zabbix2-hw/blob/master/img/2.png)
+![Скриншот 2](https://github.com/nakuzovkova/zabbix2-hw/blob/master/img/2.png)
  ---
 
 ### Задание 3
@@ -52,7 +51,7 @@
 
 ```
 
-![Скриншот1 1](https://github.com/nakuzovkova/zabbix2-hw/blob/master/img/3.png)
+![Скриншот 3](https://github.com/nakuzovkova/zabbix2-hw/blob/master/img/3.png)
  ---
 
 ### Задание 4
@@ -68,7 +67,7 @@
 
 ```
 
-![Скриншот1 1](https://github.com/nakuzovkova/zabbix2-hw/blob/master/img/4.png)
+![Скриншот 4](https://github.com/nakuzovkova/zabbix2-hw/blob/master/img/4.png)
  ---
 
 ### Задание 5* со звёздочкой
